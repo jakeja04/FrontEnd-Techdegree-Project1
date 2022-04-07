@@ -8,17 +8,14 @@ body {
   padding: 0;
   text-align: center;
   font-family: 'Calibri', sans-serif;
-  color: #grey;
+  color: #222;
   background: #f7f5f0;
 }
 /* Link Styles */
 
 a {
   text-decoration: none;
-  color: #999;
-}
-a:hover {
-
+  color: grey;
 }
 
 /* Section Styles */
@@ -40,7 +37,7 @@ nav {
   padding: 0;
 }
 
-.nav .name {
+.name {
     display: block;
     margin-right: auto;
     color: white;
